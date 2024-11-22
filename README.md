@@ -91,7 +91,7 @@ SpotifyClone/
 ## Screenshots
 
 ### Main Page
-![Main Screen](path/to/main_screen_screenshot.png)
+![Main Screen](path/to/Simulator Screenshot - iPhone 16 Pro - 2024-11-22 at 02.35.47.png)
 
 
 ## Customization
